@@ -1,2 +1,3 @@
 # Facial_Recognition
 Application in deep learning by creating a facial recognition program 
+This project aims to improve the algorithm and the accuracy rate of an existing open-source facial recognition project. In addition, we are planning to increment more features into the project. We have chosen deep learning as our machine learning algorithm. Furthermore, we are using a neural network as our model for the algorithm. The improvement is made by evaluating the existing training neural network and reconstructing the input, hidden, and output layers. Finally, we will be retraining the improved model based on our dataset to achieve a better accuracy rate and practical use in daily life with the ability of addressing big data.
